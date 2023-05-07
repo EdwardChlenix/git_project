@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> f1d0085a2cfd29b4176d19ea9bef80e69d87c969
 =======
@@ -12,3 +13,5 @@ print('Hello Linux')
 >>>>>>> parent of 5d296e1 (Hello World)
 =======
 >>>>>>> f1d0085a2cfd29b4176d19ea9bef80e69d87c969
+=======
+>>>>>>> parent of 5d296e1 (Hello World)
